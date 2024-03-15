@@ -4,10 +4,6 @@
 
 A simple tool designed to change the password for the root user on Unix-based systems. It demonstrates a potential security vulnerability by exploiting unauthorized write access to the `/etc/passwd` file.
 
-## Disclaimer
-
-⚠️ **Caution: This script is intended for educational and testing purposes only. Unauthorized access and modification of system files are illegal and unethical. Ensure you have explicit permission before attempting to use this tool on any system. Use at your own risk.**
-
 ## Usage
 
 1. **Write Access Check:**
