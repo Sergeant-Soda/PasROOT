@@ -1,4 +1,4 @@
-# passROOT: Root Password Changer
+# PassROOT: Root Password Changer
 
 ## Overview
 
